@@ -5,4 +5,4 @@ This is just a small basic project on OpenCV .
 
 To run this project :- 
     run the guitry.py file 
-All you need is facial_recognition library to be installed along with openCV and Tkinter as well .
+All you need is face_recognition library to be installed along with openCV and Tkinter as well .
